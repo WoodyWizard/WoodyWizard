@@ -28,14 +28,14 @@
   <g transform="translate(812,44)"><g class="spin"><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(0)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(30)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(60)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(90)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(120)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(150)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(180)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(210)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(240)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(270)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(300)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(330)" fill="#ffffff" stroke="#e3d9b8"/><circle r="7.8" fill="#d9a400"/></g></g>
   <g transform="translate(780,74)"><g class="spin"><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(0)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(30)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(60)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(90)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(120)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(150)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(180)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(210)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(240)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(270)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(300)" fill="#ffffff" stroke="#e3d9b8"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(330)" fill="#ffffff" stroke="#e3d9b8"/><circle r="3.9" fill="#d9a400"/></g></g>
   <text x="30" y="48" class="title">~/WoodyWizard <tspan fill="#2f8a4c">$</tspan> stats<tspan class="blink" fill="#d9a400">▌</tspan></text>
-  <text x="30" y="72" class="mono">on GitHub since 2013 · 2 followers · updated 2026-10-22</text>
+  <text x="30" y="72" class="mono">on GitHub since 2013 · 2 followers · updated 2026-10-23</text>
 
 
   <g class="rise" style="animation-delay:0.1s">
     <rect x="30" y="92" width="190" height="100" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
     <rect x="30" y="110" width="4" height="64" rx="2" fill="#2f8a4c"/>
     <text x="50" y="120" class="label">Contributions</text>
-    <text x="50" y="156" class="big" fill="#2f8a4c">122</text>
+    <text x="50" y="156" class="big" fill="#2f8a4c">124</text>
     <text x="50" y="178" class="small">in the last year</text>
   </g>
 
@@ -43,15 +43,15 @@
     <rect x="233" y="92" width="190" height="100" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
     <rect x="233" y="110" width="4" height="64" rx="2" fill="#d9a400"/>
     <text x="253" y="120" class="label">Current streak</text>
-    <text x="253" y="156" class="big" fill="#d9a400">3d</text>
-    <text x="253" y="178" class="small">best: 3 days</text>
+    <text x="253" y="156" class="big" fill="#d9a400">6d</text>
+    <text x="253" y="178" class="small">best: 6 days</text>
   </g>
 
   <g class="rise" style="animation-delay:0.33999999999999997s">
     <rect x="436" y="92" width="190" height="100" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
     <rect x="436" y="110" width="4" height="64" rx="2" fill="#2f8a4c"/>
     <text x="456" y="120" class="label">Commits</text>
-    <text x="456" y="156" class="big" fill="#2f8a4c">35</text>
+    <text x="456" y="156" class="big" fill="#2f8a4c">36</text>
     <text x="456" y="178" class="small">4 pull requests · 0 reviews</text>
   </g>
 
@@ -60,11 +60,11 @@
     <rect x="639" y="110" width="4" height="64" rx="2" fill="#d9a400"/>
     <text x="659" y="120" class="label">Stars earned</text>
     <text x="659" y="156" class="big" fill="#d9a400">★ 4</text>
-    <text x="659" y="178" class="small">16 public repos · 0 forks</text>
+    <text x="659" y="178" class="small">17 public repos · 0 forks</text>
   </g>
 <g class="rise" style="animation-delay:.5s"><rect x="18" y="208" width="824" height="140" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
 <text x="32" y="230" class="label">Activity · last 12 months</text>
-<text x="828" y="230" class="small" text-anchor="end">17 active days · busiest: 40 on 2026-10-22</text>
+<text x="828" y="230" class="small" text-anchor="end">21 active days · busiest: 41 on 2026-10-22</text>
 </g>
 <rect class="cell" style="animation-delay:0.60s" x="60.5" y="254" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2025-10-19: 0</title></rect>
 <rect class="cell" style="animation-delay:0.60s" x="60.5" y="268" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2025-10-20: 0</title></rect>
@@ -319,8 +319,8 @@
 <rect class="cell" style="animation-delay:1.21s" x="536.5" y="310" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-18: 0</title></rect>
 <rect class="cell" style="animation-delay:1.21s" x="536.5" y="324" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-19: 0</title></rect>
 <rect class="cell" style="animation-delay:1.21s" x="536.5" y="338" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-20: 0</title></rect>
-<rect class="cell" style="animation-delay:1.23s" x="550.5" y="254" width="11" height="11" rx="2.5" fill="#3f9b5a"><title>2026-06-21: 4</title></rect>
-<rect class="cell" style="animation-delay:1.23s" x="550.5" y="268" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-22: 0</title></rect>
+<rect class="cell" style="animation-delay:1.23s" x="550.5" y="254" width="11" height="11" rx="2.5" fill="#7cc68a"><title>2026-06-21: 3</title></rect>
+<rect class="cell" style="animation-delay:1.23s" x="550.5" y="268" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-06-22: 1</title></rect>
 <rect class="cell" style="animation-delay:1.23s" x="550.5" y="282" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-23: 0</title></rect>
 <rect class="cell" style="animation-delay:1.23s" x="550.5" y="296" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-24: 0</title></rect>
 <rect class="cell" style="animation-delay:1.23s" x="550.5" y="310" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-06-25: 0</title></rect>
@@ -358,8 +358,8 @@
 <rect class="cell" style="animation-delay:1.32s" x="620.5" y="254" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-07-26: 0</title></rect>
 <rect class="cell" style="animation-delay:1.32s" x="620.5" y="268" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-07-27: 0</title></rect>
 <rect class="cell" style="animation-delay:1.32s" x="620.5" y="282" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-07-28: 0</title></rect>
-<rect class="cell" style="animation-delay:1.32s" x="620.5" y="296" width="11" height="11" rx="2.5" fill="#7cc68a"><title>2026-07-29: 2</title></rect>
-<rect class="cell" style="animation-delay:1.32s" x="620.5" y="310" width="11" height="11" rx="2.5" fill="#7cc68a"><title>2026-07-30: 3</title></rect>
+<rect class="cell" style="animation-delay:1.32s" x="620.5" y="296" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-07-29: 1</title></rect>
+<rect class="cell" style="animation-delay:1.32s" x="620.5" y="310" width="11" height="11" rx="2.5" fill="#3f9b5a"><title>2026-07-30: 4</title></rect>
 <rect class="cell" style="animation-delay:1.32s" x="620.5" y="324" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-07-31: 0</title></rect>
 <rect class="cell" style="animation-delay:1.32s" x="620.5" y="338" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-08-01: 0</title></rect>
 <text x="634.5" y="246" class="small" style="font-size:10px">Aug</text>
@@ -438,18 +438,19 @@
 <rect class="cell" style="animation-delay:1.52s" x="774.5" y="254" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-11: 0</title></rect>
 <rect class="cell" style="animation-delay:1.52s" x="774.5" y="268" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-12: 0</title></rect>
 <rect class="cell" style="animation-delay:1.52s" x="774.5" y="282" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-13: 0</title></rect>
-<rect class="cell" style="animation-delay:1.52s" x="774.5" y="296" width="11" height="11" rx="2.5" fill="#3f9b5a"><title>2026-10-14: 5</title></rect>
-<rect class="cell" style="animation-delay:1.52s" x="774.5" y="310" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-15: 0</title></rect>
+<rect class="cell" style="animation-delay:1.52s" x="774.5" y="296" width="11" height="11" rx="2.5" fill="#3f9b5a"><title>2026-10-14: 4</title></rect>
+<rect class="cell" style="animation-delay:1.52s" x="774.5" y="310" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-10-15: 1</title></rect>
 <rect class="cell" style="animation-delay:1.52s" x="774.5" y="324" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-16: 0</title></rect>
 <rect class="cell" style="animation-delay:1.52s" x="774.5" y="338" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-17: 0</title></rect>
-<rect class="cell" style="animation-delay:1.54s" x="788.5" y="254" width="11" height="11" rx="2.5" fill="#7cc68a"><title>2026-10-18: 2</title></rect>
-<rect class="cell" style="animation-delay:1.54s" x="788.5" y="268" width="11" height="11" rx="2.5" fill="#e9efe4"><title>2026-10-19: 0</title></rect>
+<rect class="cell" style="animation-delay:1.54s" x="788.5" y="254" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-10-18: 1</title></rect>
+<rect class="cell" style="animation-delay:1.54s" x="788.5" y="268" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-10-19: 1</title></rect>
 <rect class="cell" style="animation-delay:1.54s" x="788.5" y="282" width="11" height="11" rx="2.5" fill="#1f6b3a"><title>2026-10-20: 12</title></rect>
 <rect class="cell" style="animation-delay:1.54s" x="788.5" y="296" width="11" height="11" rx="2.5" fill="#1f6b3a"><title>2026-10-21: 25</title></rect>
-<rect class="cell" style="animation-delay:1.54s" x="788.5" y="310" width="11" height="11" rx="2.5" fill="#1f6b3a"><title>2026-10-22: 40</title></rect>
+<rect class="cell" style="animation-delay:1.54s" x="788.5" y="310" width="11" height="11" rx="2.5" fill="#1f6b3a"><title>2026-10-22: 41</title></rect>
+<rect class="cell" style="animation-delay:1.54s" x="788.5" y="324" width="11" height="11" rx="2.5" fill="#bfe3b4"><title>2026-10-23: 1</title></rect>
 <g class="rise" style="animation-delay:.8s"><rect x="18" y="364" width="420" height="88" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
 <text x="34" y="390" class="label">Last 12 months in numbers</text>
-<text x="34" y="422" class="big" style="font-size:22px" fill="#2f8a4c">35</text>
+<text x="34" y="422" class="big" style="font-size:22px" fill="#2f8a4c">36</text>
 <text x="34" y="440" class="small">commits</text>
 <text x="134" y="422" class="big" style="font-size:22px" fill="#d9a400">4</text>
 <text x="134" y="440" class="small">pull requests</text>
@@ -461,25 +462,25 @@
 <g class="rise" style="animation-delay:.95s"><rect x="454" y="364" width="388" height="88" rx="14" fill="#ffffff" stroke="#dfe7d8"/>
 <text x="470" y="390" class="label">Languages</text>
 <clipPath id="lc"><rect x="470" y="400" width="356" height="10" rx="5"/></clipPath><g clip-path="url(#lc)"><g class="grow">
-<rect x="470.0" y="400" width="114.3" height="10" fill="#000080"/>
-<rect x="583.8" y="400" width="100.8" height="10" fill="#3572A5"/>
-<rect x="684.1" y="400" width="84.8" height="10" fill="#f1e05a"/>
-<rect x="768.4" y="400" width="36.8" height="10" fill="#b07219"/>
-<rect x="804.7" y="400" width="9.0" height="10" fill="#89e051"/>
-<rect x="813.2" y="400" width="6.0" height="10" fill="#dea584"/>
-<rect x="818.7" y="400" width="7.8" height="10" fill="#6e7681"/>
+<rect x="470.0" y="400" width="113.0" height="10" fill="#000080"/>
+<rect x="582.5" y="400" width="103.6" height="10" fill="#3572A5"/>
+<rect x="685.6" y="400" width="83.9" height="10" fill="#f1e05a"/>
+<rect x="769.0" y="400" width="36.4" height="10" fill="#b07219"/>
+<rect x="804.9" y="400" width="8.9" height="10" fill="#89e051"/>
+<rect x="813.3" y="400" width="6.0" height="10" fill="#dea584"/>
+<rect x="818.8" y="400" width="7.7" height="10" fill="#6e7681"/>
 </g></g>
 <circle cx="474.0" cy="424" r="4" fill="#000080"/>
-<text x="483.0" y="428" class="small">Lua <tspan class="mono" style="font-size:11px">32.0%</tspan></text>
+<text x="483.0" y="428" class="small">Lua <tspan class="mono" style="font-size:11px">31.6%</tspan></text>
 <circle cx="592.6666666666666" cy="424" r="4" fill="#3572A5"/>
-<text x="601.6666666666666" y="428" class="small">Python <tspan class="mono" style="font-size:11px">28.2%</tspan></text>
+<text x="601.6666666666666" y="428" class="small">Python <tspan class="mono" style="font-size:11px">29.0%</tspan></text>
 <circle cx="711.3333333333334" cy="424" r="4" fill="#f1e05a"/>
-<text x="720.3333333333334" y="428" class="small">JavaScript <tspan class="mono" style="font-size:11px">23.7%</tspan></text>
+<text x="720.3333333333334" y="428" class="small">JavaScript <tspan class="mono" style="font-size:11px">23.4%</tspan></text>
 <circle cx="474.0" cy="441" r="4" fill="#b07219"/>
-<text x="483.0" y="445" class="small">Java <tspan class="mono" style="font-size:11px">10.2%</tspan></text>
+<text x="483.0" y="445" class="small">Java <tspan class="mono" style="font-size:11px">10.1%</tspan></text>
 <circle cx="592.6666666666666" cy="441" r="4" fill="#89e051"/>
 <text x="601.6666666666666" y="445" class="small">Shell <tspan class="mono" style="font-size:11px">2.4%</tspan></text>
 <circle cx="711.3333333333334" cy="441" r="4" fill="#dea584"/>
-<text x="720.3333333333334" y="445" class="small">Rust <tspan class="mono" style="font-size:11px">1.6%</tspan></text>
+<text x="720.3333333333334" y="445" class="small">Rust <tspan class="mono" style="font-size:11px">1.5%</tspan></text>
 </g>
 </svg>
