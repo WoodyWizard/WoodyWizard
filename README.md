@@ -33,7 +33,7 @@
 | ⭐ [**ZenExtensionShortcuts**](https://github.com/WoodyWizard/ZenExtensionShortcuts) | Favorites panel under Zen Browser's floating new-tab URL bar | ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black) |
 | 🧩 [**zen-ext**](https://github.com/WoodyWizard/zen-ext) | Install any extension into Zen Browser without publishing to AMO | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white) |
 | 🔐 [**SecretStream**](https://github.com/WoodyWizard/SecretStream) | Encrypt your livestream; viewers decrypt it with a browser extension and a key | ![Browser](https://img.shields.io/badge/-Browser%20extension-4c8a5f?style=flat-square&logo=firefoxbrowser&logoColor=white) |
-| 💬 [**just_chat_rust_twitch**](https://github.com/WoodyWizard/just_chat_rust_twitch) | Minimal Twitch chat client | ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=black) |
+| 🦠 [**SporeCoop**](https://github.com/WoodyWizard/SporeCoop) | Co-op multiplayer mod for Spore: 2-4 players, one world, every stage | ![C++](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) |
 
 Also contributing to [**rwmt/Multiplayer**](https://github.com/rwmt/Multiplayer) (RimWorld co-op) and hacking on the [GLVMEngine](https://github.com/WoodyWizard/GLVMEngine_neurohruchevo_edition) Vulkan/OpenGL engine.
 
