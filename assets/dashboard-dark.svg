@@ -28,7 +28,7 @@
   <g transform="translate(812,44)"><g class="spin"><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(0)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(30)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(60)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(90)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(120)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(150)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(180)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(210)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(240)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(270)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(300)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-16.1" rx="5.7" ry="10.9" transform="rotate(330)" fill="#f8f5ec" stroke="none"/><circle r="7.8" fill="#f4d35e"/></g></g>
   <g transform="translate(780,74)"><g class="spin"><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(0)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(30)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(60)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(90)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(120)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(150)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(180)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(210)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(240)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(270)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(300)" fill="#f8f5ec" stroke="none"/><ellipse cx="0" cy="-8.1" rx="2.9" ry="5.5" transform="rotate(330)" fill="#f8f5ec" stroke="none"/><circle r="3.9" fill="#f4d35e"/></g></g>
   <text x="30" y="48" class="title">~/WoodyWizard <tspan fill="#7bd389">$</tspan> stats<tspan class="blink" fill="#f4d35e">▌</tspan></text>
-  <text x="30" y="72" class="mono">on GitHub since 2013 · 3 followers · updated 2026-10-30</text>
+  <text x="30" y="72" class="mono">on GitHub since 2013 · 3 followers · updated 2026-10-31</text>
 
 
   <g class="rise" style="animation-delay:0.1s">
@@ -43,7 +43,7 @@
     <rect x="233" y="92" width="190" height="100" rx="14" fill="#16291f" stroke="#24402f"/>
     <rect x="233" y="110" width="4" height="64" rx="2" fill="#f4d35e"/>
     <text x="253" y="120" class="label">Current streak</text>
-    <text x="253" y="156" class="big" fill="#f4d35e">3d</text>
+    <text x="253" y="156" class="big" fill="#f4d35e">0d</text>
     <text x="253" y="178" class="small">best: 8 days</text>
   </g>
 
@@ -448,6 +448,7 @@
 <rect class="cell" style="animation-delay:1.54s" x="788.5" y="296" width="11" height="11" rx="2.5" fill="#a6eb8f"><title>2026-10-28: 240</title></rect>
 <rect class="cell" style="animation-delay:1.54s" x="788.5" y="310" width="11" height="11" rx="2.5" fill="#5fbf72"><title>2026-10-29: 151</title></rect>
 <rect class="cell" style="animation-delay:1.54s" x="788.5" y="324" width="11" height="11" rx="2.5" fill="#1b3125"><title>2026-10-30: 0</title></rect>
+<rect class="cell" style="animation-delay:1.54s" x="788.5" y="338" width="11" height="11" rx="2.5" fill="#1b3125"><title>2026-10-31: 0</title></rect>
 <g class="rise" style="animation-delay:.8s"><rect x="18" y="364" width="420" height="88" rx="14" fill="#16291f" stroke="#24402f"/>
 <text x="34" y="390" class="label">Last 12 months in numbers</text>
 <text x="34" y="422" class="big" style="font-size:22px" fill="#7bd389">955</text>
